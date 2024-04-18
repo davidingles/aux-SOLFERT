@@ -15,8 +15,7 @@ const Models = [
   // { title: 'antorcha2', url: './antorcha2.glb', miEscala: .5, miPosicion: -0.3 },
   // { title: 'antorcha1', url: './antorcha1.glb', miEscala: .5, miPosicion: -0.3 },
   // { title: 'donaciones', url: './donaciones.glb', miEscala: .2, miPosicion: -0.3 },
-  { title: '3D BHTERRA oscura', url: './3D BHTERRA.glb', miEscala: 1.0, miPosicion: 0.2 },
-  { title: '3D BHTERRA clara', url: './4D BHTERRA.glb', miEscala: 1.0, miPosicion: 0.2 },
+  { title: 'solfert', url: './solfert.glb', miEscala: 1.0, miPosicion: 0.2 },
 ]
 
 function Model({ url, miEscala, miPosicion }) {
